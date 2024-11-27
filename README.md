@@ -25,7 +25,6 @@ The repository demonstrates implementations of the following design patterns:
 - **Chain of Responsibility**
 - **Command**
 - **Interpreter**
-- **Iterator**
 - **Mediator**
 - **Memento**
 - **Observer**
